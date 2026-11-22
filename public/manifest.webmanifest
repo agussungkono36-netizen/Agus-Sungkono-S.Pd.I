@@ -1,0 +1,54 @@
+{
+  "name": "SIADS SD Negeri 1 Ngantru",
+  "short_name": "SIADS SDN1",
+  "description": "Sistem Informasi Akreditasi & Dokumentasi Sekolah SD Negeri 1 Ngantru",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "lang": "id-ID",
+  "theme_color": "#102A43",
+  "background_color": "#F8FAFC",
+  "categories": ["education", "productivity"],
+  "icons": [
+    {
+      "src": "/assets/aistudio/Desain_tanpa_judul_9fafac28.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/aistudio/Desain_tanpa_judul_9fafac28.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "PENGEMBANGAN DIRI",
+      "short_name": "Pengembangan Diri",
+      "url": "/kategori/pengembangan_diri"
+    },
+    {
+      "name": "LINGKUNGAN",
+      "short_name": "Lingkungan",
+      "url": "/kategori/lingkungan"
+    },
+    {
+      "name": "PEMBELAJARAN",
+      "short_name": "Pembelajaran",
+      "url": "/kategori/pembelajaran"
+    },
+    {
+      "name": "TATA KELOLA DAN ADMINISTRASI",
+      "short_name": "Tata Kelola & Adm.",
+      "url": "/kategori/tata_kelola_administrasi"
+    },
+    {
+      "name": "PROFIL SEKOLAH",
+      "short_name": "Profil Sekolah",
+      "url": "/kategori/profil_sekolah"
+    }
+  ]
+}

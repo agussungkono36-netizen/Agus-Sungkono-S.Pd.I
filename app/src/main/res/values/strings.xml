@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SIADS SDN 1 Ngantru</string>
+    <string name="school_name">SD NEGERI 1 NGANTRU</string>
+    <string name="school_subtitle">Sistem Informasi Akreditasi &amp; Dokumentasi Sekolah</string>
+    <string name="visi_sd_title">VISI SD</string>
+    <string name="visi_sd_content">"Terwujudnya Peserta Didik yang Beriman, Bertakwa, Berakhlak Mulia, Cerdas, Terampil, Mandiri, dan Berwawasan Lingkungan"</string>
+    <string name="cd_school_building">Foto Gedung Sekolah SD Negeri 1 Ngantru</string>
+    <string name="cd_school_logo">Logo SD Negeri 1 Ngantru</string>
+    <string name="cd_open_menu">Buka menu navigasi</string>
+    <string name="cd_back">Kembali</string>
+    <string name="demo_mode_badge">MODE PREVIEW DEMO (Non-Produksi)</string>
+</resources>

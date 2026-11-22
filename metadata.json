@@ -1,0 +1,6 @@
+{
+  "name": "SIADS SDN 1 Ngantru",
+  "description": "Sistem Informasi Akreditasi & Dokumentasi Sekolah (SIADS) SD Negeri 1 Ngantru",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
